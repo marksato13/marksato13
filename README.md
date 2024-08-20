@@ -1,4 +1,4 @@
-<h1 align="center"># Hola 👋 MKNinja</h1>
+<h1 align="center"># Hola 👋 MK</h1>
 <h3 align="center">holi mano</h3>
 
 - 🔭 Actualmente estoy trabajando en **no seas sapo**
