@@ -1,28 +1,20 @@
 <h1 align="center"># Hola 👋 MK</h1>
-<h3 align="center">holi mano</h3>
+<h3 align="center">Ingeniero en constante evolución</h3>
 
-- 🔭 Actualmente estoy trabajando en **no seas sapo**
-
-- 🌱 Actualmente estoy aprendiendo . **no seas sapo**
-
-- 👯 Estoy buscando colaborar en **no seas sapo**
-
-- 🤝 Busco ayuda con **no seas sapo**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com /marksato13](https://github.com/marksato13)
-
-- 📝 Escribo artículos [solo la tesista](solo la tesista)
-
-- 💬 Pregúntame sobre **calculo xxx**
-
-- 📫 Cómo contactarme **mkninja@gmail.com* *
-
-- 📄 Conoce mis experiencias [no seas sapo](no seas sapo)
-
-- ⚡ Dato curioso: **no seas sapo**
+- 🔭 Actualmente estoy trabajando en **desarrollo de aplicaciones móviles y backend, con un enfoque en soluciones escalables.**
+- 🌱 Actualmente estoy aprendiendo **sobre arquitecturas de microservicios y optimización de rendimiento.**
+- 👯 Estoy buscando colaborar en **proyectos de ingeniería que desafíen mis habilidades y me permitan innovar.**
+- 🤝 Busco ayuda con **mejorar mis conocimientos sobre DevOps y automatización de procesos.**
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/marksato13](https://github.com/marksato13)
+- 📝 Escribo artículos sobre **tendencias tecnológicas y mejores prácticas en ingeniería de software.**
+- 💬 Pregúntame sobre **optimización de bases de datos y arquitecturas escalables.**
+- 📫 Cómo contactarme **mkninja@gmail.com**
+- 📄 Conoce mis experiencias **en diseño de sistemas distribuidos, gestión de equipos y desarrollo ágil.**
+- ⚡ Dato curioso: **Me apasiona resolver problemas complejos y simplificar soluciones para mejorar la eficiencia.**
 
 <h3 align="left">Conéctate conmigo:</h3>
-<p align="left ">
+<p align="left">
+  <!-- Aquí puedes añadir iconos de LinkedIn, Twitter, etc. -->
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
@@ -49,4 +41,3 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
-
