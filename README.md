@@ -1,18 +1,23 @@
 <h1 align="center"># Hola 👋 MK</h1>
 <h3 align="center">Ingeniero en constante evolución</h3>
 
-- 🔭 Actualmente estoy trabajando en **seguridad de redes, implementando soluciones en infraestructura y protegiendo sistemas con equipos Fortinet y Cisco, además de desarrollando aplicaciones y soluciones backend.**
-- 🌱 Actualmente estoy aprendiendo **sobre optimización de redes y protocolos de seguridad avanzados, así como arquitecturas de microservicios y tecnologías de backend.**
-- 👯 Estoy buscando colaborar en **proyectos de redes y ciberseguridad, así como desarrollo de software y soluciones innovadoras en backend.**
-- 🤝 Busco ayuda con **mejorar mis conocimientos en administración de redes, herramientas de monitoreo de tráfico y optimización de performance en desarrollo.**
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/marksato13](https://github.com/marksato13)
-- 📝 Escribo artículos sobre **seguridad de redes, desarrollo de software, mejores prácticas en ciberseguridad y tendencias en infraestructura de redes.**
-- 💬 Pregúntame sobre **configuración de dispositivos Fortinet y Cisco, así como desarrollo backend, optimización de bases de datos y arquitecturas escalables.**
-- 📫 Cómo contactarme **mkninja@gmail.com**
-- 📄 Conoce mis experiencias **en seguridad de redes, gestión de dispositivos y diseño de arquitecturas de redes seguras, así como desarrollo backend con tecnologías como Node.js, Java y Python.**
-- ⚡ Dato curioso: **Me apasiona asegurar redes, proteger infraestructuras, desarrollar soluciones de software y resolver desafíos técnicos complejos.**
+Infraestructura y Redes:**
+
+-↗️ Actualmente estoy aprendiendo sobre optimización de redes y protocolos de seguridad avanzados. Mi objetivo es mejorar el rendimiento de las redes a través de técnicas de optimización y garantizar la seguridad de los sistemas mediante la implementación de protocolos avanzados.
+-🛡️ Estoy buscando colaborar en proyectos de redes y ciberseguridad que desafíen mis habilidades y expandan mi experiencia en el campo. Me interesa trabajar en proyectos que me permitan profundizar en la gestión de redes y la protección de infraestructuras críticas.**
+-❔ Pregúntame sobre configuración de dispositivos Fortinet y Cisco, así como sobre protocolos de seguridad en redes. Tengo experiencia trabajando con dispositivos de ambas marcas y soy apasionado de implementar soluciones seguras en redes.**
+-📫 Cómo contactarme: makosdfrs@gmail.com Estoy disponible para discutir proyectos relacionados con la seguridad de redes o cualquier consulta técnica.**
+-⚡ Dato curioso: Disfruto enfrentando retos que requieren soluciones innovadoras y eficientes.**
 
 
+Desarrollo:**
+
+-📱 Desarrollé aplicaciones móviles híbridas y webs solo en proyectos de la universidad, aplicando buenas prácticas en la arquitectura de software, pruebas y mantenimiento para asegurar la calidad del producto final.**
+-👨‍💻 Aprendo rápido los lenguajes de programación. Me adapto rápidamente a nuevas tecnologías y lenguajes, y disfruto de aprender y aplicar mis conocimientos en proyectos reales.**
+-👨‍💻 Mis páginas son:**
+Proyecto 1:...**
+Proyecto 2:...**
+Proyecto 3: ..**
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <!-- Aquí puedes añadir iconos de LinkedIn, Twitter, etc. -->
