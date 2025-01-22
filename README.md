@@ -18,7 +18,7 @@
   - Proyecto 2: [Enlace al proyecto](#)
   - Proyecto 3: [Enlace al proyecto](#)
 
-## Conéctate conmigo
+## Contacta conmigo
 
 <p align="left">
   <!-- Puedes añadir iconos de LinkedIn, Twitter, etc. -->
