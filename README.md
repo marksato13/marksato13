@@ -24,7 +24,7 @@
   <!-- Puedes añadir iconos de LinkedIn, Twitter, etc. -->
 </p>
 
-## Idiomas y herramientas
+## Lenguajes y herramientas
 
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
