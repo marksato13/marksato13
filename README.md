@@ -24,6 +24,32 @@
   <!-- Puedes añadir iconos de LinkedIn, Twitter, etc. -->
 </p>
 
+## Redes
+
+<p align="left">
+  <a href="https://www.fortinet.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fortinet_logo.svg/2560px-Fortinet_logo.svg.png" alt="fortinet" width="40" height="40"/>
+  </a>
+  <a href="https://www.cisco.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cisco_logo_2016.svg/1280px-Cisco_logo_2016.svg.png" alt="cisco" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Kali_Linux_logo_2023.svg" alt="kali linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Wireshark_Logo_2020.png" alt="wireshark" width="40" height="40"/>
+  </a>
+  <a href="https://suricata.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Suricata_logo.svg" alt="suricata" width="40" height="40"/>
+  </a>
+  <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zabbix_logo.svg" alt="zabbix" width="40" height="40"/>
+  </a>
+</p>
+
 ## Lenguajes y herramientas
 
 <p align="left">
