@@ -1,16 +1,17 @@
 <h1 align="center"># Hola 👋 MK</h1>
 <h3 align="center">Ingeniero en constante evolución</h3>
 
-- 🔭 Actualmente estoy trabajando en **desarrollo de aplicaciones móviles y backend, con un enfoque en soluciones escalables.**
-- 🌱 Actualmente estoy aprendiendo **sobre arquitecturas de microservicios y optimización de rendimiento.**
-- 👯 Estoy buscando colaborar en **proyectos de ingeniería que desafíen mis habilidades y me permitan innovar.**
-- 🤝 Busco ayuda con **mejorar mis conocimientos sobre DevOps y automatización de procesos.**
+- 🔭 Actualmente estoy trabajando en **seguridad de redes, implementando soluciones en infraestructura y protegiendo sistemas con equipos Fortinet y Cisco ...**
+- 🌱 Actualmente estoy aprendiendo **sobre optimización de redes y protocolos de seguridad avanzados.**
+- 👯 Estoy buscando colaborar en **proyectos de redes y ciberseguridad que desafíen mis habilidades y expandan mi experiencia en el campo.**
+- 🤝 Busco ayuda con **mejorar mis conocimientos en administración de redes y herramientas de monitoreo de tráfico.**
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/marksato13](https://github.com/marksato13)
-- 📝 Escribo artículos sobre **tendencias tecnológicas y mejores prácticas en ingeniería de software.**
-- 💬 Pregúntame sobre **optimización de bases de datos y arquitecturas escalables.**
+- 📝 Escribo artículos sobre **seguridad de redes, mejores prácticas en ciberseguridad y tendencias en la infraestructura de redes.**
+- 💬 Pregúntame sobre **configuración de dispositivos Fortinet y Cisco, así como protocolos de seguridad en redes.**
 - 📫 Cómo contactarme **mkninja@gmail.com**
-- 📄 Conoce mis experiencias **en diseño de sistemas distribuidos, gestión de equipos y desarrollo ágil.**
-- ⚡ Dato curioso: **Me apasiona resolver problemas complejos y simplificar soluciones para mejorar la eficiencia.**
+- 📄 Conoce mis experiencias **en seguridad de redes, gestión de dispositivos y diseño de arquitecturas de redes seguras.**
+- ⚡ Dato curioso: **Me apasiona asegurar redes, proteger infraestructuras y resolver desafíos técnicos complejos.**
+
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
