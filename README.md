@@ -1,4 +1,4 @@
-# Hola 👋 MK
+# Hola 👋 
 ### Ingeniero en constante evolución
 
 ## Infraestructura y Redes
