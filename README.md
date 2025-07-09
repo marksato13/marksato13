@@ -15,16 +15,26 @@
 
 Puedes conectarte conmigo a través de las siguientes plataformas:
 
-[![LinkedIn](![image](https://github.com/user-attachments/assets/8f8afdcb-1c9d-4cb1-9db7-847b0be985c4)
-)](https://www.linkedin.com/in/ruben-mark-salazar-tocas-79b82b2b5/)
+<a href="https://www.linkedin.com/in/ruben-mark-salazar-tocas-79b82b2b5/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png" width="30" />
+</a>
 
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/tuusuario)
+<a href="https://github.com/tuusuario">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="30" />
+</a>
 
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:makosdfrs@gmail.com)
+<a href="mailto:makosdfrs@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
+</a>
 
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/tuusuario)
+<a href="https://t.me/tuusuario">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30" />
+</a>
 
-[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/519XXXXXXXX)
+<a href="https://wa.me/519XXXXXXXX">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" />
+</a>
+
 
 
 -  **Cómo contactarme:** [ruben.salazar@upeu.edu.pe](mailto:ruben.salazar@upeu.edu.pe). Estoy disponible para discutir proyectos relacionados con la seguridad de redes o cualquier consulta técnica.
