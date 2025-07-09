@@ -16,7 +16,7 @@
 Puedes conectarte conmigo a través de las siguientes plataformas:
 
 <a href="https://www.linkedin.com/in/ruben-mark-salazar-tocas-79b82b2b5/">
-  <img src="https://www.facebook.com/386226d4-d285-4733-9f66-4f326d4d35b3" width="30" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2F48511691-00ea-4160-8ae3-dafae115c542-removebg-preview.png?alt=media&token=7ec554a0-3b5d-4801-b7f7-281dc61232b5" width="30" />
 </a>
 
 <a href="mailto:ruben.salazar@upeu.edu.pe">
