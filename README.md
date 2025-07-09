@@ -15,7 +15,16 @@
 
 Puedes conectarte conmigo a través de las siguientes plataformas:
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png)]([https://www.linkedin.com/in/ruben-mark-salazar-tocas-79b82b2b5/)  
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png)](https://www.linkedin.com/in/ruben-mark-salazar-tocas-79b82b2b5/)
+
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/tuusuario)
+
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:makosdfrs@gmail.com)
+
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/tuusuario)
+
+[![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg)](https://wa.me/519XXXXXXXX)
+
 
 -  **Cómo contactarme:** [ruben.salazar@upeu.edu.pe](mailto:ruben.salazar@upeu.edu.pe). Estoy disponible para discutir proyectos relacionados con la seguridad de redes o cualquier consulta técnica.
 
