@@ -37,7 +37,7 @@ Estoy disponible para realizar proyectos, prácticas preprofesionales, colaborac
 
 <p align="left">
   <a href="https://www.fortinet.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fortinet_logo.svg/2560px-Fortinet_logo.svg.png" alt="fortinet" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Ffirewalls-fortinetkb-fortinet-fortinetkb-twitter-fortinet-fortinet-logo-11563404930xfckb72zgk-removebg-preview.png?alt=media&token=4d8c1822-3ce8-420f-ae28-63e6e31cf21d" alt="fortinet" width="40" height="40"/>
   </a>
   <a href="https://www.cisco.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cisco_logo_2016.svg/1280px-Cisco_logo_2016.svg.png" alt="cisco" width="40" height="40"/>
