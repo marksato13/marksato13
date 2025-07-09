@@ -1,21 +1,14 @@
-# Hola 👋 
-### Ingeniero en constante evolución
-
 ## Infraestructura y Redes
 
 - Actualmente estoy fortaleciendo mis conocimientos en monitoreo y administración de redes, así como en protocolos de seguridad, con un enfoque especial en el uso de herramientas como Zabbix. Mi objetivo es optimizar el rendimiento de las redes mediante monitoreo proactivo y garantizar su seguridad aplicando buenas prácticas y configuraciones adecuadas.
 - Busco involucrarme en proyectos de redes y ciberseguridad que me permitan aplicar lo aprendido y seguir creciendo profesionalmente. Me interesa especialmente la gestión de redes, la configuración de equipos y la implementación de medidas de seguridad para proteger infraestructuras.
--  **Cómo contactarme:** [makosdfrs@gmail.com](mailto:makosdfrs@gmail.com). Estoy disponible para discutir proyectos relacionados con la seguridad de redes o cualquier consulta técnica.
+-  **Cómo contactarme:** [makosdfrs@gmail.com](mailto:ruben.salazar@upeu.edu.pe). Estoy disponible para discutir proyectos relacionados con la seguridad de redes o cualquier consulta técnica.
 -  **Dato curioso:** Disfruto enfrentando retos que requieren soluciones innovadoras y eficientes.
 
 ## Desarrollo
 
-- 📱 Desarrollé **aplicaciones móviles híbridas** y webs solo en proyectos de la universidad, aplicando buenas prácticas en la arquitectura de software, pruebas para asegurar la calidad del producto final.
-- 👨‍💻 **Aprendo rápido los lenguajes de programación.** Me adapto rápidamente a nuevas tecnologías y lenguajes, y disfruto de aprender y aplicar mis conocimientos en proyectos reales.
-- 👨‍💻 Mis proyectos son:
-  - Proyecto 1: [Enlace al proyecto](#)
-  - Proyecto 2: [Enlace al proyecto](#)
-  - Proyecto 3: [Enlace al proyecto](#)
+-  Desarrollé **aplicaciones móviles híbridas** y webs solo en proyectos de la universidad, aplicando buenas prácticas en la arquitectura de software, pruebas para asegurar la calidad del producto final.
+-  **Aprendo rápido los lenguajes de programación.** Me adapto rápidamente a nuevas tecnologías y lenguajes, y disfruto de aprender y aplicar mis conocimientos en proyectos reales.
 
 ---
 
@@ -24,7 +17,6 @@
 Puedes conectarte conmigo a través de las siguientes plataformas:
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png)](https://www.linkedin.com)  
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Twitter_Logo_2021.svg/2048px-Twitter_Logo_2021.svg.png)](https://twitter.com)
 
 ---
 
