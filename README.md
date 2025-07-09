@@ -60,7 +60,7 @@ Estoy disponible para realizar proyectos, prácticas preprofesionales, colaborac
 
   <!-- Zabbix -->
   <a href="https://www.zabbix.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__2_-removebg-preview.png?alt=media&token=46b69035-3d43-4ae8-8636-4e161337a3e5" alt="zabbix" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fzabbix-integration-removebg-preview.png?alt=media&token=b7120192-92cb-41a9-8b00-b649987d5c24" alt="zabbix" width="40" height="40"/>
   </a>
 
   <!-- Cisco -->
@@ -70,27 +70,27 @@ Estoy disponible para realizar proyectos, prácticas preprofesionales, colaborac
 
   <!-- VMware ESXi -->
   <a href="https://www.vmware.com/products/esxi-and-esx.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/VMware_logo.svg" alt="vmware esxi" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga-removebg-preview%20(1).png?alt=media&token=86caad5b-aae4-4be9-bed3-d046adb5d9d3" alt="vmware esxi" width="40" height="40"/>
   </a>
 
   <!-- Nagios -->
   <a href="https://www.nagios.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Nagios_logo.svg" alt="nagios" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__2_-removebg-preview%20(1).png?alt=media&token=e3be8d1c-a612-4c3d-bef7-263a9e7bb85a" alt="nagios" width="40" height="40"/>
   </a>
 
   <!-- Cisco Packet Tracer -->
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Cisco_Packet_Tracer_Logo.png" alt="cisco packet tracer" width="40" height="40"/>
+    <img src="" width="40" height="40"/>
   </a>
 
   <!-- GNS3 -->
   <a href="https://www.gns3.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/GNS3_logo.svg" alt="gns3" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__3_-removebg-preview%20(2).png?alt=media&token=d8a397f2-78e0-4cc3-ada7-ae06e00733dc" alt="gns3" width="40" height="40"/>
   </a>
 
   <!-- VirtualBox -->
   <a href="https://www.virtualbox.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Virtualbox_logo.png" alt="virtualbox" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2FVirtualBox_2024_Logo.svg-removebg-preview.png?alt=media&token=ecc00a5f-e6cd-4783-8399-4c65c8050da0" alt="virtualbox" width="40" height="40"/>
   </a>
 
 </p>
