@@ -3,11 +3,10 @@
 
 ## Infraestructura y Redes
 
-- 🔧 ** Actualmente estoy fortaleciendo mis conocimientos en monitoreo y administración de redes, así como en protocolos de seguridad, con un enfoque especial en el uso de herramientas como Zabbix. Mi objetivo es optimizar el rendimiento de las redes mediante monitoreo proactivo y garantizar su seguridad aplicando buenas prácticas y configuraciones adecuadas.
-- 🛡️ ** Busco involucrarme en proyectos de redes y ciberseguridad que me permitan aplicar lo aprendido y seguir creciendo profesionalmente. Me interesa especialmente la gestión de redes, la configuración de equipos y la implementación de medidas de seguridad para proteger infraestructuras.
-- ❔ **❔ Pregúntame sobre conceptos de redes, configuración de routers y switches Cisco, y fundamentos de seguridad en redes. Estoy en proceso de aprendizaje práctico con dispositivos Cisco y Fortinet, y me gusta aplicar configuraciones seguras en laboratorios y simuladores.
-- 📫 **Cómo contactarme:** [makosdfrs@gmail.com](mailto:makosdfrs@gmail.com). Estoy disponible para discutir proyectos relacionados con la seguridad de redes o cualquier consulta técnica.
-- ⚡ **Dato curioso:** Disfruto enfrentando retos que requieren soluciones innovadoras y eficientes.
+- Actualmente estoy fortaleciendo mis conocimientos en monitoreo y administración de redes, así como en protocolos de seguridad, con un enfoque especial en el uso de herramientas como Zabbix. Mi objetivo es optimizar el rendimiento de las redes mediante monitoreo proactivo y garantizar su seguridad aplicando buenas prácticas y configuraciones adecuadas.
+- Busco involucrarme en proyectos de redes y ciberseguridad que me permitan aplicar lo aprendido y seguir creciendo profesionalmente. Me interesa especialmente la gestión de redes, la configuración de equipos y la implementación de medidas de seguridad para proteger infraestructuras.
+-  **Cómo contactarme:** [makosdfrs@gmail.com](mailto:makosdfrs@gmail.com). Estoy disponible para discutir proyectos relacionados con la seguridad de redes o cualquier consulta técnica.
+-  **Dato curioso:** Disfruto enfrentando retos que requieren soluciones innovadoras y eficientes.
 
 ## Desarrollo
 
