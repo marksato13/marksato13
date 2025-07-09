@@ -3,15 +3,15 @@
 
 ## Infraestructura y Redes
 
-- 🔧 **Actualmente estoy aprendiendo sobre optimización de redes** y protocolos de seguridad avanzados. Mi objetivo es mejorar el rendimiento de las redes a través de técnicas de optimización y garantizar la seguridad de los sistemas mediante la implementación de protocolos avanzados.
-- 🛡️ **Estoy buscando colaborar en proyectos de redes y ciberseguridad** que desafíen mis habilidades y expandan mi experiencia en el campo. Me interesa trabajar en proyectos que me permitan profundizar en la gestión de redes y la protección de infraestructuras críticas.
-- ❔ **Pregúntame sobre configuración de dispositivos Fortinet y Cisco**, así como sobre protocolos de seguridad en redes. Tengo experiencia trabajando con dispositivos de ambas marcas y soy apasionado de implementar soluciones seguras en redes.
+- 🔧 ** Actualmente estoy fortaleciendo mis conocimientos en monitoreo y administración de redes, así como en protocolos de seguridad, con un enfoque especial en el uso de herramientas como Zabbix. Mi objetivo es optimizar el rendimiento de las redes mediante monitoreo proactivo y garantizar su seguridad aplicando buenas prácticas y configuraciones adecuadas.
+- 🛡️ ** Busco involucrarme en proyectos de redes y ciberseguridad que me permitan aplicar lo aprendido y seguir creciendo profesionalmente. Me interesa especialmente la gestión de redes, la configuración de equipos y la implementación de medidas de seguridad para proteger infraestructuras.
+- ❔ **❔ Pregúntame sobre conceptos de redes, configuración de routers y switches Cisco, y fundamentos de seguridad en redes. Estoy en proceso de aprendizaje práctico con dispositivos Cisco y Fortinet, y me gusta aplicar configuraciones seguras en laboratorios y simuladores.
 - 📫 **Cómo contactarme:** [makosdfrs@gmail.com](mailto:makosdfrs@gmail.com). Estoy disponible para discutir proyectos relacionados con la seguridad de redes o cualquier consulta técnica.
 - ⚡ **Dato curioso:** Disfruto enfrentando retos que requieren soluciones innovadoras y eficientes.
 
 ## Desarrollo
 
-- 📱 Desarrollé **aplicaciones móviles híbridas** y webs solo en proyectos de la universidad, aplicando buenas prácticas en la arquitectura de software, pruebas y mantenimiento para asegurar la calidad del producto final.
+- 📱 Desarrollé **aplicaciones móviles híbridas** y webs solo en proyectos de la universidad, aplicando buenas prácticas en la arquitectura de software, pruebas para asegurar la calidad del producto final.
 - 👨‍💻 **Aprendo rápido los lenguajes de programación.** Me adapto rápidamente a nuevas tecnologías y lenguajes, y disfruto de aprender y aplicar mis conocimientos en proyectos reales.
 - 👨‍💻 Mis proyectos son:
   - Proyecto 1: [Enlace al proyecto](#)
