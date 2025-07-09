@@ -16,8 +16,11 @@
 Puedes conectarte conmigo a través de las siguientes plataformas:
 
 <a href="https://www.linkedin.com/in/ruben-mark-salazar-tocas-79b82b2b5/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png" width="30" />
+  <img src="https://github.com/user-attachments/assets/b8903a54-bb43-4655-b54e-2bb7e9092890" width="30" />
 </a>
+
+
+
 
 <a href="mailto:makosdfrs@gmail.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
