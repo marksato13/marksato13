@@ -43,8 +43,10 @@ Estoy disponible para realizar proyectos, prácticas preprofesionales, colaborac
 
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__1_-removebg-preview.png?alt=media&token=197bb0cf-fe78-4690-a5ec-4ebf62a138a6)" alt="linux" width="40" height="40"/>
   </a>
+
+
 
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
