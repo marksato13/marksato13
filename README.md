@@ -16,15 +16,18 @@
 Estoy disponible para realizar proyectos, prácticas preprofesionales, colaboraciones o consultas técnicas relacionadas con redes, ciberseguridad o desarrollo de software.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ruben-mark-salazar-tocas-79b82b2b5/" style="margin: 0 10px;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2F48511691-00ea-4160-8ae3-dafae115c542-removebg-preview.png?alt=media&token=7ec554a0-3b5d-4801-b7f7-281dc61232b5" width="40" />
-  </a>
-  <a href="mailto:ruben.salazar@upeu.edu.pe" style="margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
-  </a>
-  <a href="https://wa.me/51994304769" style="margin: 0 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/ruben-mark-salazar-tocas-79b82b2b5/" target="_blank" style="margin: 0 10px;">
+  <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2F48511691-00ea-4160-8ae3-dafae115c542-removebg-preview.png?alt=media&token=7ec554a0-3b5d-4801-b7f7-281dc61232b5" width="40" />
+</a>
+
+<a href="mailto:ruben.salazar@upeu.edu.pe" target="_blank" style="margin: 0 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
+</a>
+
+<a href="https://wa.me/51994304769" target="_blank" style="margin: 0 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" />
+</a>
+
 </div>
 
 ---
