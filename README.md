@@ -18,13 +18,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tuusuario">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png" width="40" style="margin-right: 20px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png" width="40" style="margin-right: 50px;" />
   </a>
   <a href="mailto:makosdfrs@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" style="margin-right: 20px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" style="margin-right: 50px;" />
   </a>
   <a href="https://wa.me/519XXXXXXXX">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" style="margin-right: 20px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" style="margin-right: 50px;" />
   </a>
 </div>
 
