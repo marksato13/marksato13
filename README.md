@@ -2,7 +2,7 @@
 
 - Actualmente estoy fortaleciendo mis conocimientos en monitoreo y administración de redes, así como en protocolos de seguridad, con un enfoque especial en el uso de herramientas como Zabbix. Mi objetivo es optimizar el rendimiento de las redes mediante monitoreo proactivo y garantizar su seguridad aplicando buenas prácticas y configuraciones adecuadas.
 - Busco involucrarme en proyectos de redes y ciberseguridad que me permitan aplicar lo aprendido y seguir creciendo profesionalmente. Me interesa especialmente la gestión de redes, la configuración de equipos y la implementación de medidas de seguridad para proteger infraestructuras.
--  **Cómo contactarme:** [makosdfrs@gmail.com](mailto:ruben.salazar@upeu.edu.pe). Estoy disponible para discutir proyectos relacionados con la seguridad de redes o cualquier consulta técnica.
+-  **Cómo contactarme:** [ruben.salazar@upeu.edu.pe](mailto:ruben.salazar@upeu.edu.pe). Estoy disponible para discutir proyectos relacionados con la seguridad de redes o cualquier consulta técnica.
 -  **Dato curioso:** Disfruto enfrentando retos que requieren soluciones innovadoras y eficientes.
 
 ## Desarrollo
