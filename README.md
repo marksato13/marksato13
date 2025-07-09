@@ -16,15 +16,15 @@
 <h2>📎 Contacta conmigo</h2>
 <p>Puedes conectarte conmigo a través de las siguientes plataformas:</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/tuusuario">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png" width="40" style="margin-right: 500px;" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; padding: 20px; background-color: #f5f5f5; border-radius: 10px;">
+  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/LinkedIn_Logo_2023.svg/1200px-LinkedIn_Logo_2023.svg.png" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="mailto:makosdfrs@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" style="margin-right: 500px;" />
+  <a href="mailto:makosdfrs@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://wa.me/519XXXXXXXX">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" style="margin-right: 500px;" />
+  <a href="https://wa.me/519XXXXXXXX" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </div>
 
