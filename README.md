@@ -39,15 +39,19 @@ Estoy disponible para realizar proyectos, prácticas preprofesionales, colaborac
   <a href="https://www.fortinet.com" target="_blank" rel="noreferrer">
     <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Ffirewalls-fortinetkb-fortinet-fortinetkb-twitter-fortinet-fortinet-logo-11563404930xfckb72zgk-removebg-preview.png?alt=media&token=4d8c1822-3ce8-420f-ae28-63e6e31cf21d" alt="fortinet" width="40" height="40"/>
   </a>
+  
   <a href="https://www.cisco.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cisco_logo_2016.svg/1280px-Cisco_logo_2016.svg.png" alt="cisco" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga-removebg-preview.png?alt=media&token=450d64cb-c709-4206-a0ca-523d0a9d692a" alt="cisco" width="40" height="40"/>
   </a>
+  
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+  
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Kali_Linux_logo_2023.svg" alt="kali linux" width="40" height="40"/>
   </a>
+  
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Wireshark_Logo_2020.png" alt="wireshark" width="40" height="40"/>
   </a>
