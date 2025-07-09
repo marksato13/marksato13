@@ -80,7 +80,7 @@ Estoy disponible para realizar proyectos, prácticas preprofesionales, colaborac
 
   <!-- Cisco Packet Tracer -->
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noopener noreferrer">
-    <img src="" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__3_-removebg-preview%20(3).png?alt=media&token=3af0c760-e2d3-4251-a274-a03c9b9ef9c7" width="40" height="40"/>
   </a>
 
   <!-- GNS3 -->
