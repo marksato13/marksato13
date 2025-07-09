@@ -13,20 +13,20 @@
 
 ## Contacta conmigo
 
-Puedes conectarte conmigo a través de las siguientes plataformas:
+<h2>📎 Contacta conmigo</h2>
+<p>Puedes conectarte conmigo a través de las siguientes plataformas:</p>
 
-<a href="https://www.linkedin.com/in/ruben-mark-salazar-tocas-79b82b2b5/">
-  <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2F48511691-00ea-4160-8ae3-dafae115c542-removebg-preview.png?alt=media&token=7ec554a0-3b5d-4801-b7f7-281dc61232b5" width="30" />
-</a>
-
-<a href="mailto:ruben.salazar@upeu.edu.pe">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" />
-</a>
-
-<a href="https://wa.me/51994304769">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="30" />
-</a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/tuusuario" style="margin: 0 10px;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2F48511691-00ea-4160-8ae3-dafae115c542-removebg-preview.png?alt=media&token=7ec554a0-3b5d-4801-b7f7-281dc61232b5" width="40" />
+  </a>
+  <a href="mailto:makosdfrs@gmail.com" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
+  </a>
+  <a href="https://wa.me/519XXXXXXXX" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40" />
+  </a>
+</div>
 
 ---
 
