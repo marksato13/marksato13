@@ -43,24 +43,24 @@ Estoy disponible para realizar proyectos, prácticas preprofesionales, colaborac
 
   <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__1_-removebg-preview.png?alt=media&token=197bb0cf-fe78-4690-a5ec-4ebf62a138a6)" alt="linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 
 
 
   <!-- Kali Linux -->
   <a href="https://www.kali.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Kali_Linux_logo_2023.svg" alt="kali linux" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__1_-removebg-preview.png?alt=media&token=197bb0cf-fe78-4690-a5ec-4ebf62a138a6" alt="kali linux" width="40" height="40"/>
   </a>
 
   <!-- Wireshark -->
   <a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Wireshark_Logo_2020.png" alt="wireshark" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__1_-removebg-preview%20(1).png?alt=media&token=47e3e9b8-2158-4d3e-9f70-dca46d6e5381" alt="wireshark" width="40" height="40"/>
   </a>
 
   <!-- Zabbix -->
   <a href="https://www.zabbix.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zabbix_logo.svg" alt="zabbix" width="40" height="40"/>
+    <img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__2_-removebg-preview.png?alt=media&token=46b69035-3d43-4ae8-8636-4e161337a3e5" alt="zabbix" width="40" height="40"/>
   </a>
 
   <!-- Cisco -->
