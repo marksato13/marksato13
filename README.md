@@ -163,25 +163,4 @@ Estoy disponible para realizar proyectos, prácticas preprofesionales, colaborac
 </div>
 
 
----
 
-## 📈 Estadísticas de GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=marksato13&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=marksato13&theme=tokyonight)
-
----
-
-## 💻 Lenguajes más usados
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=marksato13&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Proyectos Destacados
-
-- **[PY-ZABBIX-ARIMA-LSTM](https://github.com/marksato13/PY-ZABBIX-ARIMA-LSTM)** → Predicción de CPU/RAM con ARIMA + LSTM  
-- **[PORTAFOLIO_RUBEN_MARK](https://github.com/marksato13/PORTAFOLIO_RUBEN_MARK)** → Actividades de Sistemas y Tecnología  
-- **[OVERWARE-INFRA](#)** → Infraestructura híbrida y monitoreo FortiSIEM  
-
----
