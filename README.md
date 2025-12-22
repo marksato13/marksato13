@@ -1,3 +1,11 @@
+## 👋 Hola
+
+Soy estudiante de **Ingeniería de Sistemas**, actualmente en **noveno ciclo**, con experiencia práctica en el área de **infraestructura tecnológica, redes y seguridad de la información**.  
+
+Desde el año **2024** me encuentro formándome y participando activamente en **proyectos reales**, colaborando en la **implementación, administración y soporte de soluciones tecnológicas** para organizaciones públicas y privadas.
+
+
+
 ## Infraestructura y Redes
 
 - Actualmente estoy fortaleciendo mis conocimientos en monitoreo y administración de redes, así como en protocolos de seguridad, con un enfoque especial en el uso de herramientas como Zabbix. Mi objetivo es optimizar el rendimiento de las redes mediante monitoreo proactivo y garantizar su seguridad aplicando buenas prácticas y configuraciones adecuadas.
