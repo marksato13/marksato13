@@ -144,7 +144,7 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 | **VPN y túneles** | WireGuard, IPsec, L2TP/IPsec, EoIP, GRE | 🔜 |
 | **QoS y control de ancho de banda** | Simple Queues, Queue Tree, PCQ | 🔜 |
 
-### <img src="https://cdn.simpleicons.org/grafana/F46800" width="18"> Monitoreo y Observabilidad — [`zabbix-monitoring-labs`](https://github.com/marksato13/zabbix-monitoring-labs)
+### <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="18"> Monitoreo y Observabilidad — [`zabbix-monitoring-labs`](https://github.com/marksato13/zabbix-monitoring-labs)
 
 | Categoría | Contenido | Estado |
 |:---|:---|:---:|
@@ -185,15 +185,18 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
   <a href="https://www.vmware.com/products/esxi-and-esx.html" target="_blank"><img src="https://cdn.simpleicons.org/vmware/607078" width="45" height="45" alt="VMware ESXi"/></a>&nbsp;&nbsp;
   <a href="https://www.proxmox.com/" target="_blank"><img src="https://cdn.simpleicons.org/proxmox/E57000" width="45" height="45" alt="Proxmox"/></a>&nbsp;&nbsp;
   <a href="https://www.virtualbox.org/" target="_blank"><img src="https://cdn.simpleicons.org/virtualbox/183A61" width="45" height="45" alt="VirtualBox"/></a>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,cloudflare" height="45" alt="Docker, Kubernetes, Nginx, Cloudflare"/>&nbsp;&nbsp;
-  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__3_-removebg-preview%20(3).png?alt=media&token=3af0c760-e2d3-4251-a274-a03c9b9ef9c7" width="45" height="45" alt="Cisco Packet Tracer"/></a>&nbsp;&nbsp;
-  <a href="https://www.gns3.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__3_-removebg-preview%20(2).png?alt=media&token=d8a397f2-78e0-4cc3-ada7-ae06e00733dc" width="45" height="45" alt="GNS3"/></a>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,cloudflare" height="45" alt="Docker, Kubernetes, Nginx, Cloudflare"/>
+</p>
+<p align="center">
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"></a>
+  <a href="https://www.gns3.com/" target="_blank"><img src="https://img.shields.io/badge/GNS3-00A8E8?style=for-the-badge&logoColor=white" alt="GNS3"></a>
+  <a href="https://www.eve-ng.net/" target="_blank"><img src="https://img.shields.io/badge/EVE--NG-2E3B4E?style=for-the-badge&logoColor=white" alt="EVE-NG"></a>
 </p>
 
 <h3 align="center">Monitoreo y Observabilidad</h3>
 <p align="center">
-  <a href="https://www.zabbix.com/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fzabbix-integration-removebg-preview.png?alt=media&token=b7120192-92cb-41a9-8b00-b649987d5c24" width="45" height="45" alt="Zabbix"/></a>&nbsp;&nbsp;
-  <a href="https://www.nagios.org/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/fluflu-db001.appspot.com/o/no%20borrar%2Fdescarga__2_-removebg-preview%20(1).png?alt=media&token=e3be8d1c-a612-4c3d-bef7-263a9e7bb85a" width="45" height="45" alt="Nagios"/></a>&nbsp;&nbsp;
+  <a href="https://www.zabbix.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="45" height="45" alt="Zabbix"/></a>&nbsp;&nbsp;
+  <a href="https://www.nagios.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" width="45" height="45" alt="Nagios"/></a>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch" height="45" alt="Grafana, Prometheus, Elasticsearch"/>&nbsp;&nbsp;
   <a href="https://www.splunk.com/" target="_blank"><img src="https://cdn.simpleicons.org/splunk/000000" width="45" height="45" alt="Splunk"/></a>
 </p>
