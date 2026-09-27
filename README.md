@@ -112,6 +112,44 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 
 ---
 
+## 🧰 Entorno de Trabajo y Laboratorios
+
+> Documentación técnica **funcional y verificada** de mi entorno de ingeniería: herramientas reales instaladas, cómo funcionan y cómo se usan.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💻 neteng-workstation</h3>
+      <p>Entorno de trabajo reproducible sobre <b>Windows 11 + WSL2</b>: inventario de herramientas de red con versiones, guías de funcionamiento y uso de cada una (SSH, Wireshark, nmap, SNMP, automatización) y diagramas de decisión.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+        <img src="https://img.shields.io/badge/P%C3%BAblico-2ea043?style=flat-square&logo=github&logoColor=white">
+      </p>
+      <a href="https://github.com/marksato13/neteng-workstation">📂 Ver repositorio</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🖧 homelab</h3>
+      <p>Diseño y documentación de un laboratorio propio de <b>redes y seguridad</b>: arquitectura con segmentación por VLANs, matriz de reglas entre zonas, stack por capas (SIEM, monitorización, análisis de tráfico) y roadmap por fases.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Infraestructura-1565c0?style=flat-square">
+        <img src="https://img.shields.io/badge/P%C3%BAblico-2ea043?style=flat-square&logo=github&logoColor=white">
+      </p>
+      <a href="https://github.com/marksato13/homelab">📂 Ver repositorio</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛡️ pentest-lab</h3>
+      <p>Laboratorio de <b>auditoría de seguridad autorizada</b> con Kali en USB: creación del entorno, stack de herramientas por fases, metodología y plantillas de autorización e informe. Enfoque defensivo sobre infraestructura propia.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
+        <img src="https://img.shields.io/badge/P%C3%BAblico-2ea043?style=flat-square&logo=github&logoColor=white">
+      </p>
+      <a href="https://github.com/marksato13/pentest-lab">📂 Ver repositorio</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📚 Documentación y Laboratorios por Vendor
 
 > Documentación técnica **elaborada por mí**: guías de configuración paso a paso, topologías, laboratorios reproducibles y notas de troubleshooting, organizadas por fabricante y categoría.
