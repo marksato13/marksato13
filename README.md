@@ -3,7 +3,7 @@
 <h1 align="center">Hola 👋, soy Ruben Mark Salazar Tocas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+-+X+Ciclo;Seguridad+de+Redes+e+Infraestructura+TI;Fortinet+%7C+Cisco+%7C+MikroTik;Monitoreo+y+Observabilidad+con+Zabbix;Hardening+de+Linux+y+Ciberseguridad+Defensiva" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+-+X+Ciclo;Seguridad+de+Redes+e+Infraestructura+TI;Fortinet+%7C+Cisco+%7C+MikroTik;Detecci%C3%B3n+de+anomal%C3%ADas+en+red+(IDS+%2B+ML);Monitoreo+y+Observabilidad+con+Zabbix;Hardening+de+Linux+y+Ciberseguridad+Defensiva" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -45,6 +45,7 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 - **VPN y conectividad segura:** túneles **IPsec Site-to-Site**, **SSL-VPN**, WireGuard y L2TP para acceso remoto e interconexión de sedes.
 - **Monitoreo y observabilidad:** despliegue y administración de **Zabbix** (SNMP, plantillas, triggers, dashboards y alertamiento) para detección proactiva de incidentes y control de disponibilidad.
 - **Virtualización e infraestructura:** **VMware ESXi**, Proxmox y VirtualBox para laboratorios y servicios productivos; administración de servidores **Linux** y servicios de red (DNS, DHCP, web, archivos).
+- **Detección y respuesta (IDS/NSM):** captura por **SPAN**, **Suricata** (EVE y reglas **ET Open**), variables de tráfico por capas L3/L4/L7 y respuesta automática con **nftables** (bloqueo y limitación con caducidad).
 - **Hardening y análisis:** aseguramiento de sistemas Linux, análisis de tráfico con **Wireshark**, reconocimiento y validación de superficie con **Kali Linux**, gestión de logs y evidencias.
 
 ---
@@ -76,6 +77,21 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 
 ---
 
+## 🔬 Investigación
+
+**CyberFlow: detección temprana de comportamientos anómalos en redes de datos.** Tesis de Ingeniería de Sistemas, Universidad Peruana Unión (2026), con Uziel Sauñe Fernández.
+
+- **El sistema completo:** diseñé e implementé la captura del tráfico espejado y el motor de decisión. El motor combina aprendizaje no supervisado (**Isolation Forest**, 28 variables por ventana en capas L3/L4/L7) con reglas heurísticas para escaneo, fuerza bruta y abuso HTTP. La respuesta viaja en un **feed firmado (ed25519)** que un agente aplica con **nftables** en el servidor protegido.
+- **El laboratorio:** lo monté virtualizado en **VMware ESXi**, con VLANs, SPAN en switches **Cisco Catalyst** y **pfSense** en alta disponibilidad. Incluye sensor, servidor DMZ, atacante **Kali** y clientes legítimos.
+- **Comparación con un IDS de firmas:** enfrenté el sistema a **Suricata + ET Open** reproduciendo las mismas capturas.
+- **Validación técnica interna:** demostración en vivo ante expertos (octubre de 2026).
+- **Reproducible:** el código, el modelo, la configuración de cada equipo y la guía de instalación están documentados en el repositorio.
+- **Artículo científico** derivado de la tesis, en proceso editorial (2026).
+
+<a href="https://github.com/marksato13/VF-Sistema-Open-Source-para-la-Deteccion-Temprana-de-Comportamientos-Anomalos-en-Redes-de-Datos">📂 Repositorio del sistema</a>
+
+---
+
 ## 🧪 Proyectos destacados
 
 <table>
@@ -90,8 +106,8 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
       <a href="https://github.com/marksato13/ninjasec-platform">📂 Repositorio (acceso bajo solicitud)</a>
     </td>
     <td width="33%" valign="top">
-      <h3>🔎 Tesis — Detección de Anomalías en Redes</h3>
-      <p>Sistema <b>open source</b> para la detección temprana de comportamientos anómalos en redes de datos, a partir de métricas recolectadas con Zabbix y modelos de series temporales.</p>
+      <h3>🔎 CyberFlow — Tesis</h3>
+      <p>Sistema <b>open source</b> de detección temprana de comportamientos anómalos en red: <b>Suricata</b> + <b>Isolation Forest</b> + reglas por capa (L3/L4/L7), con respuesta graduada (<i>permitir, limitar, bloquear</i>) mediante un feed firmado que aplica <b>nftables</b>. Panel web con login y TLS. Validado en laboratorio con ataques reales.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Público-2ea043?style=flat-square&logo=github&logoColor=white">
@@ -216,6 +232,11 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45" height="45" alt="Wireshark"/></a>&nbsp;&nbsp;
   <a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" height="45" alt="Kali Linux"/></a>&nbsp;&nbsp;
   <a href="https://www.snort.org/" target="_blank"><img src="https://cdn.simpleicons.org/snort/FF1717" width="45" height="45" alt="Snort"/></a>
+</p>
+<p align="center">
+  <a href="https://suricata.io/" target="_blank"><img src="https://img.shields.io/badge/Suricata-EF7D00?style=for-the-badge&logoColor=white" alt="Suricata"></a>
+  <a href="https://netfilter.org/projects/nftables/" target="_blank"><img src="https://img.shields.io/badge/nftables-333333?style=for-the-badge&logo=linux&logoColor=white" alt="nftables"></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"></a>
 </p>
 
 <h3 align="center">Virtualización e Infraestructura</h3>
