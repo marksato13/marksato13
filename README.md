@@ -234,7 +234,7 @@ Documentación de implementación de un parque completo de infraestructura y de 
 
 | Categoría | Contenido | Estado |
 |:---|:---|:---:|
-| **Zabbix — despliegue automatizado** | Instalación desatendida de Zabbix Server con Bash | [✅ Ver repo](https://github.com/marksato13/Despliegue-100-Automatizado-de-Zabbix---MARK) |
+| **Zabbix — despliegue automatizado** | Instalación desatendida de Zabbix Server con Bash | [✅ Ver repo](https://github.com/marksato13/zabbix-despliegue-automatizado) |
 | **Zabbix — operación** | Plantillas, monitoreo SNMP de switches y firewalls, triggers, dashboards, alertamiento | 🔜 |
 | **Grafana + Prometheus** | Dashboards de infraestructura y exporters | 🔜 |
 | **Nagios** | Checks activos y pasivos, notificaciones | 🔜 |
