@@ -128,6 +128,38 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 
 ---
 
+## 🥷 NinjaSec — Suite de manuales de infraestructura (2026)
+
+Documentación de implementación de un parque completo de infraestructura y de un **SGSI alineado a ISO/IEC 27001**, organizada como **11 repositorios privados** (uno por herramienta). Cada repo es un manual *de cómo se implementa*, con procedimientos, scripts, evidencia medida y el control ISO que cubre. <sub>🔒 Privados · acceso bajo solicitud</sub>
+
+| Dominio | Manual | Tecnología |
+|:---|:---|:---|
+| Perímetro | pfSense A/B en alta disponibilidad | CARP · pfsync · IPsec · pfBlockerNG |
+| Capa 2 | 7 switches Cisco (core/dist/acceso) | VLAN · StackWise · hardening · SSH |
+| Identidad | Directorio Samba AD (DC1/DC2) | Kerberos · DNS · tiers 0/1/2 · `ROL-*` |
+| Acceso | Fileserver miembro de dominio | winbind · PAM por SID · sudoers |
+| SIEM | Wazuh | 16 agentes · syslog · alertas |
+| Monitoreo | Zabbix | disponibilidad · plantillas |
+| Nube híbrida | AWS | SAML (Keycloak) · IPsec · DR |
+| Gobierno | SGSI 01–11 | ISO/IEC 27001 · 27002 · 27005 |
+| Centro de datos | VMware ESXi | anti-afinidad · Tier · PostgreSQL |
+| Automatización | Ansible (IaC) | playbooks · `ansible-vault` |
+
+<sub>Índice: <code>ninjasec-documentacion</code> · todo sanitizado: sin credenciales, claves privadas ni volcados de configuración.</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/Samba%20AD-CB2533?style=flat-square">
+  <img src="https://img.shields.io/badge/Wazuh-2A9FD6?style=flat-square">
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-0b5394?style=flat-square">
+</p>
+
+---
+
 ## 🧰 Entorno de Trabajo y Laboratorios
 
 > Documentación técnica **funcional y verificada** de mi entorno de ingeniería: herramientas reales instaladas, cómo funcionan y cómo se usan.
@@ -170,7 +202,7 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 
 > Documentación técnica **elaborada por mí**: guías de configuración paso a paso, topologías, laboratorios reproducibles y notas de troubleshooting, organizadas por fabricante y categoría.
 
-### <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="18"> Cisco — [`cisco-labs`](https://github.com/marksato13/cisco-labs)
+### <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="18"> Cisco
 
 | Categoría | Contenido | Estado |
 |:---|:---|:---:|
@@ -179,7 +211,7 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 | **Seguridad de capa 2/3** | ACLs estándar y extendidas, AAA, SSH, DHCP Snooping, Dynamic ARP Inspection | 🔜 |
 | **Laboratorios** | Topologías en Packet Tracer y GNS3 con archivos descargables | 🔜 |
 
-### <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="18"> Fortinet — [`fortinet-labs`](https://github.com/marksato13/fortinet-labs)
+### <img src="https://cdn.simpleicons.org/fortinet/EE3124" width="18"> Fortinet
 
 | Categoría | Contenido | Estado |
 |:---|:---|:---:|
@@ -189,7 +221,7 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 | **UTM y perfiles de seguridad** | IPS, Web Filter, Application Control, Antivirus, SSL Inspection | 🔜 |
 | **Logs y alta disponibilidad** | FortiView, logging a Syslog, HA Activo-Pasivo, respaldos y actualizaciones | 🔜 |
 
-### <img src="https://cdn.simpleicons.org/mikrotik/F6931E" width="18"> MikroTik — [`mikrotik-labs`](https://github.com/marksato13/mikrotik-labs)
+### <img src="https://cdn.simpleicons.org/mikrotik/F6931E" width="18"> MikroTik
 
 | Categoría | Contenido | Estado |
 |:---|:---|:---:|
@@ -198,7 +230,7 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 | **VPN y túneles** | WireGuard, IPsec, L2TP/IPsec, EoIP, GRE | 🔜 |
 | **QoS y control de ancho de banda** | Simple Queues, Queue Tree, PCQ | 🔜 |
 
-### <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="18"> Monitoreo y Observabilidad — [`zabbix-monitoring-labs`](https://github.com/marksato13/zabbix-monitoring-labs)
+### <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" width="18"> Monitoreo y Observabilidad
 
 | Categoría | Contenido | Estado |
 |:---|:---|:---:|
@@ -207,7 +239,7 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 | **Grafana + Prometheus** | Dashboards de infraestructura y exporters | 🔜 |
 | **Nagios** | Checks activos y pasivos, notificaciones | 🔜 |
 
-### <img src="https://cdn.simpleicons.org/linux/FCC624" width="18"> Linux, Hardening y Seguridad — [`linux-hardening-labs`](https://github.com/marksato13/linux-hardening-labs)
+### <img src="https://cdn.simpleicons.org/linux/FCC624" width="18"> Linux, Hardening y Seguridad
 
 | Categoría | Contenido | Estado |
 |:---|:---|:---:|
