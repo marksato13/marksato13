@@ -130,7 +130,7 @@ Mi objetivo profesional es consolidarme como **especialista en Seguridad de Rede
 
 ## 🥷 NinjaSec — Suite de manuales de infraestructura (2026)
 
-Documentación de implementación de un parque completo de infraestructura y de un **SGSI alineado a ISO/IEC 27001**, organizada como **11 repositorios privados** (uno por herramienta). Cada repo es un manual *de cómo se implementa*, con procedimientos, scripts, evidencia medida y el control ISO que cubre. <sub>🔒 Privados · acceso bajo solicitud</sub>
+Documentación de implementación de un parque completo de infraestructura y de un **SGSI alineado a ISO/IEC 27001**, organizada como **13 repositorios privados** (uno por herramienta). Cada repo es un manual *de cómo se implementa*, con procedimientos, scripts, evidencia medida y el control ISO que cubre. <sub>🔒 Privados · acceso bajo solicitud</sub>
 
 | Dominio | Manual | Tecnología |
 |:---|:---|:---|
@@ -140,12 +140,14 @@ Documentación de implementación de un parque completo de infraestructura y de 
 | Acceso | Fileserver miembro de dominio | winbind · PAM por SID · sudoers |
 | SIEM | Wazuh | 16 agentes · syslog · alertas |
 | Monitoreo | Zabbix | disponibilidad · plantillas |
+| ITAM / Mesa de ayuda | NetBox (IPAM/DCIM) · GLPI | inventario · tickets · LDAP · CMDB |
 | Nube híbrida | AWS | SAML (Keycloak) · IPsec · DR |
 | Gobierno | SGSI 01–11 | ISO/IEC 27001 · 27002 · 27005 |
 | Centro de datos | VMware ESXi | anti-afinidad · Tier · PostgreSQL |
+| Base de datos ERP | PostgreSQL HA (DB-A/DB-B) | réplica · VIP · respaldo · salud |
 | Automatización | Ansible (IaC) | playbooks · `ansible-vault` |
 
-<sub>Índice: <code>ninjasec-documentacion</code> · todo sanitizado: sin credenciales, claves privadas ni volcados de configuración.</sub>
+<sub>Índice: <code>ninjasec-documentacion</code> · cada repo incluye en <code>RUNBOOKS-IA/</code> el runbook ejecutable, un skill para agentes de IA y la implementación ideal con documentación oficial · todo sanitizado: sin credenciales, claves privadas ni volcados de configuración.</sub>
 
 <p>
   <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white">
@@ -365,3 +367,4 @@ Estoy disponible para <b>prácticas preprofesionales</b>, <b>proyectos de redes 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%">
+
